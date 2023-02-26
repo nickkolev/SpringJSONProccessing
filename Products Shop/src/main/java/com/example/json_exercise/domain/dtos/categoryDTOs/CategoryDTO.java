@@ -11,4 +11,7 @@ import lombok.Setter;
 @NoArgsConstructor
 public class CategoryDTO {
     private String name;
+
+
+
 }
